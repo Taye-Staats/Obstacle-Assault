@@ -2191,3 +2191,65 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2025.06.22-01.00.11:713][853]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 9.36% of total time (compiled   54 times, average 30.62 sec, max 1592.03 sec, min 0.54 sec)
 [2025.06.22-01.00.11:713][853]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.72% of total time (compiled  401 times, average 1.20 sec, max 5.91 sec, min 0.73 sec)
 [2025.06.22-01.00.11:713][853]LogShaderCompilers: Display: ================================================
+[2025.06.22-01.00.56:964][119]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2025.06.22-01.00.56:984][121]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2025.06.22-01.00.56:994][122]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: ================================================
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Total job queries 12023, among them cache hits 27 (0.22%)
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Tracking 11811 distinct input hashes that result in 6007 distinct outputs (50.86%)
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: RAM used: 19.23 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.35%
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Shaders Compiled: 11981
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Jobs assigned 11851, completed 11811 (99.66%)
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Average time worker was idle: 0.02 s
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Time job spent in pending queue: average 1274.14 s, longest 3153.85 s
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Job execution time: average 16.29 s, max 1614.25 s
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Job life time (pending + execution): average 1284.10 s, max 3153.91
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4501.23 s
+[2025.06.22-01.03.17:503][549]LogShaderCompilers: Display: Jobs were issued in 1244 batches (only local compilation was used), average 9.53 jobs/batch
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: Average processing rate: 2.62 jobs/sec
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: Effective parallelization: 4.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 85.92 sec, max 207.49 sec, min 3.23 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 34.92 sec, max 34.92 sec, min 34.92 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled   56 times, average 29.58 sec, max 1592.03 sec, min 0.54 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                       FTranscodePageToGPU_CS (compiled    1 times, average 19.52 sec, max 19.52 sec, min 19.52 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 16.37 sec, max 16.37 sec, min 16.37 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.79% of total time (compiled  419 times, average 5.14 sec, max 1596.50 sec, min 0.41 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                             FDebugViewModeVS - 11.52% of total time (compiled  417 times, average 5.04 sec, max 1592.60 sec, min 0.37 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.49% of total time (compiled  416 times, average 5.04 sec, max 1592.24 sec, min 0.39 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 9.08% of total time (compiled   56 times, average 29.58 sec, max 1592.03 sec, min 0.54 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.89% of total time (compiled  438 times, average 1.20 sec, max 5.91 sec, min 0.73 sec)
+[2025.06.22-01.03.17:504][549]LogShaderCompilers: Display: ================================================
+[2025.06.22-01.11.05:870][ 63]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.22-01.11.05:870][ 63]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=53572
+[2025.06.22-01.16.40:390][ 60]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.381 and deleted 0 file(s) with total size 0 MiB.
+[2025.06.22-01.42.02:506][783]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-581ms], ThreadID=53572
+[2025.06.22-01.42.02:506][783]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-608459ms], ThreadID=53572
+[2025.06.22-01.42.02:506][783]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.22-01.42.04:525][787]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.22-01.42.04:525][787]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.06.22-01.42.08:512][799]LogHttp: Warning: 00000A10BCBC1400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B131BD9A6-4D73-03BB-EDEC-C38FAE602CF2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.22-01.42.08:512][799]LogHttp: Warning: 00000A10BCBC1400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xa10b38e0570 [can pipeline])
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.206.116.54) port 443 (#2))
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 9 (Closing connection 2)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: 00000A10BCBC1400: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.06.22-01.42.08:513][799]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B131BD9A6-4D73-03BB-EDEC-C38FAE602CF2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.22-01.42.09:530][802]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2025.06.22-01.42.11:576][807]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6863.28
+[2025.06.22-01.42.11:576][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.22-01.42.11:578][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.22-01.42.11:936][809]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=53572
+[2025.06.22-01.42.12:591][810]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=359.33
+[2025.06.22-01.42.12:591][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.22-01.42.12:596][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1

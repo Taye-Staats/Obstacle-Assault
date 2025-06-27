@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tayes\\onedrive\\documents\\unreal projects\\obstacle-assault\\obstacle_assault\\source\\obstacle_assault\\obstacle_assault.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tayes\\onedrive\\documents\\unreal projects\\obstacle-assault\\obstacle_assault\\intermediate\\build\\win64\\obstacle_assaulteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tayes\\onedrive\\documents\\unreal projects\\obstacle-assault\\obstacle_assault\\intermediate\\build\\win64\\unrealeditor\\development\\obstacle_assault\\definitions.obstacle_assault.h",
+            "c:\\users\\tayes\\onedrive\\documents\\unreal projects\\obstacle-assault\\obstacle_assault\\source\\obstacle_assault\\obstacle_assault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -2006,3 +2006,184 @@ Recommended: 516.25
 [2025.06.27-21.36.39:132][830]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_LearningKit_PlayerCharacter24A673908425D024B4ABB678AF601775A.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_LearningKit_PlayerCharacter2.uasset'
 [2025.06.27-21.36.39:150][830]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter2
 [2025.06.27-21.36.39:150][830]LogContentValidation: Display: Validating Blueprint /Game/BP_LearningKit_PlayerCharacter2.BP_LearningKit_PlayerCharacter2
+[2025.06.27-21.47.19:670][796]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.27-21.47.19:670][796]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37720
+[2025.06.27-21.52.27:500][836]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-559ms], ThreadID=37720
+[2025.06.27-21.52.27:500][836]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-294753ms], ThreadID=37720
+[2025.06.27-21.52.27:500][836]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.27-21.52.30:868][840]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.27-21.52.30:868][840]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.06.27-21.52.33:615][848]LogHttp: Warning: 000004E0AACF3C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD934A-43A2-08F9-AC18-E3988A9FE279%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.27-21.52.33:616][848]LogHttp: Warning: 000004E0AACF3C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.06.27-21.52.33:616][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x4e0540f0330 [can pipeline])
+[2025.06.27-21.52.33:616][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2025.06.27-21.52.33:616][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.89.112) port 443 (#3))
+[2025.06.27-21.52.33:616][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 9 (Closing connection 3)
+[2025.06.27-21.52.33:617][848]LogHttp: Warning: 000004E0AACF3C00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.06.27-21.52.33:618][848]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD934A-43A2-08F9-AC18-E3988A9FE279%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.27-21.52.35:946][855]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2025.06.27-21.52.36:617][856]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=5590.71
+[2025.06.27-21.52.36:617][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.27-21.52.36:623][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.27-21.52.36:963][858]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37720
+[2025.06.27-21.52.37:282][858]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=207.62
+[2025.06.27-21.52.37:282][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.27-21.52.37:287][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.27-21.57.52:092][798]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.27-21.57.52:092][798]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37720
+[2025.06.28-00.26.16:538][831]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-547ms], ThreadID=37720
+[2025.06.28-00.26.16:538][831]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-8893572ms], ThreadID=37720
+[2025.06.28-00.26.16:538][831]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.28-00.26.19:043][835]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.06.28-00.26.19:638][837]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD934A-43A2-08F9-AC18-E3988A9FE279%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x4e0540f0360 [can pipeline])
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.197.98) port 443 (#5))
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.06.28-00.26.20:984][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.06.28-00.26.20:985][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.06.28-00.26.20:985][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 9 (Closing connection 5)
+[2025.06.28-00.26.20:985][841]LogHttp: Warning: 000004E0AACFF500: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.06.28-00.26.20:985][841]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD934A-43A2-08F9-AC18-E3988A9FE279%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.28-00.26.24:742][852]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2025.06.28-00.26.25:768][854]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=5812.07
+[2025.06.28-00.26.25:768][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.28-00.26.25:797][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.28-00.26.26:096][856]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37720
+[2025.06.28-00.26.26:761][857]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=561.08
+[2025.06.28-00.26.26:761][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.28-00.26.26:769][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.28-00.28.31:456][230]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.767 and deleted 0 file(s) with total size 0 MiB.
+[2025.06.28-00.36.13:280][612]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.06.28-00.36.35:402][717]LogLiveCoding: Display:    Creating library C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_23.lib and object C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_23.exp
+[2025.06.28-00.36.36:503][720]LogClass: /Script/Obstacle_Assault Reload.
+[2025.06.28-00.36.36:505][720]LogClass: MovingPlatform Reload.
+[2025.06.28-00.36.36:512][720]LogClass: Could not find existing class MovingPlatform in package /Script/Obstacle_Assault for reload, assuming new or modified class
+[2025.06.28-00.36.36:567][720]Re-instancing MovingPlatform after reload.
+[2025.06.28-00.36.36:962][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2025.06.28-00.36.37:535][721]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.06.28-00.36.37:535][721]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.06.28-00.36.40:783][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-00.36.40:810][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-00.36.40:816][778]PIE: New page: PIE session: Main (Jun 27, 2025, 10:36:40 AM)
+[2025.06.28-00.36.40:823][778]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2025.06.28-00.36.40:936][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113252s)
+[2025.06.28-00.36.40:936][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.113798s)
+[2025.06.28-00.36.40:937][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.06.28-00.36.40:946][778]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2025.06.28-00.36.40:955][778]LogAIModule: Creating AISystem for world Main
+[2025.06.28-00.36.40:965][778]LogPlayLevel: PIE: World Init took: (0.029048s)
+[2025.06.28-00.36.41:089][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2025.06.28-00.36.41:094][778]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.06.28-00.36.41:095][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-00.36.41:095][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-00.36.41:096][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-00.36.41:096][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-00.36.41:096][778]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-00.36.41:096][778]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.06.28-00.36.41:096][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-00.36.41:096][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-00.36.41:099][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-00.36.41:099][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-00.36.41:099][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-00.36.41:102][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-00.36.41:140][778]LogAudioMixer: Display: Using Audio Hardware Device VN279 (NVIDIA High Definition Audio)
+[2025.06.28-00.36.41:143][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-00.36.41:143][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-00.36.41:144][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-00.36.41:147][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.06.28-00.36.41:147][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.06.28-00.36.41:149][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.06.28-00.36.41:149][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.06.28-00.36.41:150][778]LogInit: FAudioDevice initialized.
+[2025.06.28-00.36.41:150][778]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main'.
+[2025.06.28-00.36.41:190][778]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.06.28-00.36.41:230][778]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2025.06.27-17.36.41
+[2025.06.28-00.36.43:439][778]LogWorld: Bringing up level for play took: 2.247097
+[2025.06.28-00.36.43:449][778]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.06.28-00.36.43:468][778]PIE: Server logged in
+[2025.06.28-00.36.43:469][778]PIE: Play in editor total start time 2.67 seconds.
+[2025.06.28-00.36.47:749][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-00.36.47:749][879]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2025.06.28-00.36.47:754][879]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-00.36.47:759][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-00.36.47:799][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-00.36.47:810][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-00.36.47:851][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.28-00.36.47:864][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.06.28-00.36.47:866][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.06.28-00.36.47:874][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-00.36.47:920][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.06.28-00.36.47:985][880]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.06.28-00.40.19:308][573]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.06.28-00.40.23:033][625]LogLiveCoding: Display:    Creating library C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_24.lib and object C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_24.exp
+[2025.06.28-00.40.24:196][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.06.28-00.40.24:658][634]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.06.28-00.40.24:658][634]LogLiveCoding: Display: Live coding succeeded
+[2025.06.28-00.40.26:560][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-00.40.26:568][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-00.40.26:569][661]PIE: New page: PIE session: Main (Jun 27, 2025, 10:40:26 AM)
+[2025.06.28-00.40.26:570][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2025.06.28-00.40.26:602][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032600s)
+[2025.06.28-00.40.26:602][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.032711s)
+[2025.06.28-00.40.26:603][661]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.06.28-00.40.26:603][661]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2025.06.28-00.40.26:603][661]LogAIModule: Creating AISystem for world Main
+[2025.06.28-00.40.26:603][661]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2025.06.28-00.40.26:713][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.06.28-00.40.26:717][661]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.06.28-00.40.26:717][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-00.40.26:717][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-00.40.26:718][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-00.40.26:718][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-00.40.26:718][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-00.40.26:718][661]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.06.28-00.40.26:718][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-00.40.26:718][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-00.40.26:718][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-00.40.26:718][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-00.40.26:718][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-00.40.26:720][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-00.40.26:754][661]LogAudioMixer: Display: Using Audio Hardware Device VN279 (NVIDIA High Definition Audio)
+[2025.06.28-00.40.26:755][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-00.40.26:755][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-00.40.26:755][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-00.40.26:755][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.06.28-00.40.26:755][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.06.28-00.40.26:757][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.06.28-00.40.26:757][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.06.28-00.40.26:757][661]LogInit: FAudioDevice initialized.
+[2025.06.28-00.40.26:757][661]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main'.
+[2025.06.28-00.40.26:773][661]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.06.28-00.40.26:788][661]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2025.06.27-17.40.26
+[2025.06.28-00.40.28:758][661]LogWorld: Bringing up level for play took: 1.985628
+[2025.06.28-00.40.28:761][661]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.06.28-00.40.28:762][661]PIE: Server logged in
+[2025.06.28-00.40.28:763][661]PIE: Play in editor total start time 2.195 seconds.
+[2025.06.28-00.41.03:172][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-00.41.03:172][612]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2025.06.28-00.41.03:172][612]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-00.41.03:173][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-00.41.03:216][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-00.41.03:225][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-00.41.03:281][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-00.41.03:282][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.06.28-00.41.03:284][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.06.28-00.41.03:305][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.06.28-00.41.03:351][613]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.06.28-00.41.06:736][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.06.28-00.41.06:887][696]LogSavePackage: Moving output files for package: /Game/Main
+[2025.06.28-00.41.06:890][696]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Main32468044406A64138E8DC58CE5D89567.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/Main.umap'
+[2025.06.28-00.41.06:952][696]AssetCheck: New page: Asset Save: Main
+[2025.06.28-00.41.06:952][696]LogContentValidation: Display: Validating World /Game/Main.Main

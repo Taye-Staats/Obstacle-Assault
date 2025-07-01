@@ -7306,3 +7306,186 @@ Recommended: 516.25
 [2025.07.01-18.21.38:722][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
 [2025.07.01-18.21.39:170][420]Display: Reload/Re-instancing Complete: 1 class unchanged
 [2025.07.01-18.21.39:170][420]LogLiveCoding: Display: Live coding succeeded
+[2025.07.01-18.25.01:913][140]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.01-18.25.09:655][449]LogLiveCoding: Display:    Creating library C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_9.lib and object C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_9.exp
+[2025.07.01-18.25.10:860][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2025.07.01-18.25.11:392][473]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2025.07.01-18.25.11:392][473]LogLiveCoding: Display: Live coding succeeded
+[2025.07.01-18.34.19:106][107]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.793 and deleted 0 file(s) with total size 0 MiB.
+[2025.07.01-18.36.50:634][559]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.01-18.36.50:634][559]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3936
+[2025.07.01-18.48.12:867][595]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.01-18.48.12:867][595]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.01-18.48.13:202][595]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.70
+[2025.07.01-18.48.13:202][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.01-18.48.13:212][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.01-18.56.05:318][ 69]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.01-18.56.14:643][526]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.07.01-18.56.14:644][526]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.07.01-18.56.32:070][960]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.01-18.56.36:849][200]LogLiveCoding: Display:    Creating library C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_10.lib and object C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_10.exp
+[2025.07.01-18.56.37:764][241]LogClass: /Script/Obstacle_Assault Reload.
+[2025.07.01-18.56.37:764][241]LogClass: MovingPlatform Reload.
+[2025.07.01-18.56.37:765][241]LogClass: Could not find existing class MovingPlatform in package /Script/Obstacle_Assault for reload, assuming new or modified class
+[2025.07.01-18.56.37:796][241]Re-instancing MovingPlatform after reload.
+[2025.07.01-18.56.38:305][241]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2025.07.01-18.56.38:822][242]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.07.01-18.56.38:822][242]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.07.01-18.58.17:658][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform
+[2025.07.01-18.58.17:658][101]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2025.07.01-18.58.18:198][101]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2025.07.01-18.58.18:264][101]LogViewport: Scene viewport resized to 812x693, mode Windowed.
+[2025.07.01-18.58.20:559][293]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.01-18.58.20:568][293]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.01-18.59.19:088][484]LogStaticMesh: Display: Building static mesh SM_Platform_M_coll...
+[2025.07.01-18.59.19:157][484]LogStaticMesh: Adjacency [0.00s], tris: 1798, UVs 2
+[2025.07.01-18.59.19:158][484]LogStaticMesh: Clustering [0.01s]. Ratio: 1.266667
+[2025.07.01-18.59.19:158][484]LogStaticMesh: Leaves [0.00s]
+[2025.07.01-18.59.19:158][484]LogStaticMesh: Num clusters 19. Error 0.0000, 0.0000, 0.0000
+[2025.07.01-18.59.19:208][485]LogStaticMesh: Num clusters 8. Error 2.4674, 2.4674, 2.4674
+[2025.07.01-18.59.19:230][487]LogStaticMesh: Num clusters 4. Error 6.1169, 6.1169, 6.1169
+[2025.07.01-18.59.19:247][489]LogStaticMesh: Num clusters 2. Error 10.9044, 10.9044, 10.9044
+[2025.07.01-18.59.19:255][490]LogStaticMesh: Num clusters 1. Error 17.8819, 17.8819, 17.8819
+[2025.07.01-18.59.19:255][490]LogStaticMesh: Reduce [0.14s]
+[2025.07.01-18.59.19:273][492]LogStaticMesh: Fallback 0/1 [0.02s], num tris: 1763
+[2025.07.01-18.59.19:273][492]LogStaticMesh: ConstrainClusters:
+[2025.07.01-18.59.19:273][492]LogStaticMesh:   Input: 34 Clusters, 3686 Triangles and 3604 Vertices
+[2025.07.01-18.59.19:273][492]LogStaticMesh:   Output without splits: 34 Clusters, 3686 Triangles and 3607 Vertices
+[2025.07.01-18.59.19:273][492]LogStaticMesh:   Output with splits: 34 Clusters, 3686 Triangles and 3607 Vertices
+[2025.07.01-18.59.19:273][492]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 34, Slow Path Clusters: 0, 1 Material: 34, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.01-18.59.19:281][493]LogStaticMesh: WritePages:
+[2025.07.01-18.59.19:281][493]LogStaticMesh:   Root: GPU size: 31908 bytes. 1 Pages. 31908.000 bytes per page (97.375% utilization).
+[2025.07.01-18.59.19:281][493]LogStaticMesh:   Streaming: GPU size: 28700 bytes. 1 Pages. 28700.000 bytes per page (21.896% utilization).
+[2025.07.01-18.59.19:281][493]LogStaticMesh:   Page data disk size: 50720 bytes. Fixup data size: 160 bytes.
+[2025.07.01-18.59.19:281][493]LogStaticMesh:   Total GPU size: 60608 bytes, Total disk size: 50880 bytes.
+[2025.07.01-18.59.19:281][493]LogStaticMesh: Encode [0.00s]
+[2025.07.01-18.59.19:281][493]LogStaticMesh: Imposter [0.00s]
+[2025.07.01-18.59.19:281][493]LogStaticMesh: Nanite build [0.16s]
+
+[2025.07.01-18.59.19:290][494]LogStaticMesh: Built static mesh [0.22s] /Game/Hour_of_Code/Static_Meshes/SM_Platform_M_coll.SM_Platform_M_coll
+[2025.07.01-18.59.20:739][626]LogMeshUtilities: Finished distance field build in 1.4s - 63x63x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 599 triangles, SM_Platform_M_coll
+[2025.07.01-19.00.37:636][702]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.00.37:637][702]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.00.37:638][702]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_0
+[2025.07.01-19.00.37:639][702]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_0
+[2025.07.01-19.00.39:218][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.00.39:218][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.00.39:223][773]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_1
+[2025.07.01-19.00.39:225][773]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_1
+[2025.07.01-19.01.08:426][505]Cmd: TRANSACTION UNDO
+[2025.07.01-19.01.08:426][505]LogEditorTransaction: Undo Move Elements
+[2025.07.01-19.01.14:386][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.01.14:386][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.01.14:388][726]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_2
+[2025.07.01-19.01.14:389][726]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_2
+[2025.07.01-19.01.20:544][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.01.20:544][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2025.07.01-19.01.20:546][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_3
+[2025.07.01-19.01.20:548][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_3
+[2025.07.01-19.01.27:066][278]Cmd: EDIT COPY
+[2025.07.01-19.01.27:732][303]Cmd: EDIT PASTE
+[2025.07.01-19.01.31:513][448]Cmd: TRANSACTION UNDO
+[2025.07.01-19.01.31:513][448]LogEditorTransaction: Undo Move Elements
+[2025.07.01-19.01.42:197][870]Cmd: EDIT COPY
+[2025.07.01-19.01.42:911][898]Cmd: EDIT PASTE
+[2025.07.01-19.02.02:546][721]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.07.01-19.02.02:547][721]LogPlayLevel: [PlayLevel] Compiling BP_RotatingPlatform before play...
+[2025.07.01-19.02.02:820][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2025.07.01-19.02.02:822][721]LogPlayLevel: PlayLevel: Blueprint regeneration took 276 ms (1 blueprints)
+[2025.07.01-19.02.02:823][721]PIE: New page: PIE session: Main (Jul 1, 2025, 5:02:02 AM)
+[2025.07.01-19.02.02:826][721]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2025.07.01-19.02.02:861][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034013s)
+[2025.07.01-19.02.02:861][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.034147s)
+[2025.07.01-19.02.02:861][721]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.07.01-19.02.02:861][721]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2025.07.01-19.02.02:862][721]LogAIModule: Creating AISystem for world Main
+[2025.07.01-19.02.02:862][721]LogPlayLevel: PIE: World Init took: (0.001759s)
+[2025.07.01-19.02.02:984][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2025.07.01-19.02.02:991][721]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.07.01-19.02.02:992][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.01-19.02.02:992][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.01-19.02.02:992][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.01-19.02.02:992][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.01-19.02.02:992][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.01-19.02.02:995][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.01-19.02.03:031][721]LogAudioMixer: Display: Using Audio Hardware Device VN279 (NVIDIA High Definition Audio)
+[2025.07.01-19.02.03:032][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.01-19.02.03:032][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.01-19.02.03:032][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.01-19.02.03:033][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.07.01-19.02.03:033][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.07.01-19.02.03:035][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.07.01-19.02.03:035][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.07.01-19.02.03:035][721]LogInit: FAudioDevice initialized.
+[2025.07.01-19.02.03:035][721]LogAudio: Display: Audio Device (ID: 44) registered with world 'Main'.
+[2025.07.01-19.02.03:053][721]LogLoad: Game class is 'BP_ObstacleAssaultGameMode_C'
+[2025.07.01-19.02.03:071][721]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2025.07.01-12.02.03
+[2025.07.01-19.02.04:656][721]LogWorld: Bringing up level for play took: 1.602911
+[2025.07.01-19.02.04:659][721]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.07.01-19.02.04:661][721]LogTemp: Display: Begin Play: BP_MovingPlatform_C_5
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_MovingPlatform_C_7
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_PushingCube_C_9
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_PushingCube_C_7
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_PushingCube_C_5
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_PushingCube_C_3
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_RotatingPlatform_C_1
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_RotatingPlatform_C_3
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_RotatingPlatform_C_4
+[2025.07.01-19.02.04:662][721]LogTemp: Display: Begin Play: BP_RotatingPlatform_C_5
+[2025.07.01-19.02.04:663][721]PIE: Server logged in
+[2025.07.01-19.02.04:664][721]PIE: Play in editor total start time 2.118 seconds.
+[2025.07.01-19.02.24:223][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.01-19.02.24:223][714]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2025.07.01-19.02.24:223][714]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-19.02.24:225][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-19.02.24:244][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.01-19.02.24:257][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-19.02.24:340][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.01-19.02.24:343][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.07.01-19.02.24:344][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.07.01-19.02.24:357][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2025.07.01-19.02.24:421][715]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.07.01-19.02.49:591][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.07.01-19.02.49:711][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto8
+[2025.07.01-19.02.49:712][841]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Main_Auto856D8CBFB4F20DC8DB33823A85C5BB491.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Autosaves/Game/Main_Auto8.umap'
+[2025.07.01-19.02.49:719][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.209
+[2025.07.01-19.02.49:719][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.209
+[2025.07.01-19.03.23:867][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.07.01-19.03.23:991][ 17]LogSavePackage: Moving output files for package: /Game/Main
+[2025.07.01-19.03.23:993][ 17]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/MainD975AEF54CE4C38F23A8F78D4967A720.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/Main.umap'
+[2025.07.01-19.03.24:039][ 17]AssetCheck: New page: Asset Save: Main
+[2025.07.01-19.03.24:039][ 17]LogContentValidation: Display: Validating World /Game/Main.Main
+[2025.07.01-19.03.25:653][ 99]LogSavePackage: Moving output files for package: /Game/BP_MovingPlatform
+[2025.07.01-19.03.25:654][ 99]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_MovingPlatformEA52FA8A4B904D308F961C8CFF83C3D3.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_MovingPlatform.uasset'
+[2025.07.01-19.03.25:675][ 99]AssetCheck: New page: Asset Save: BP_MovingPlatform
+[2025.07.01-19.03.25:675][ 99]LogContentValidation: Display: Validating Blueprint /Game/BP_MovingPlatform.BP_MovingPlatform
+[2025.07.01-19.03.27:542][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PushingCube" FILE="../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_PushingCube.uasset" SILENT=true
+[2025.07.01-19.03.27:547][248]LogSavePackage: Moving output files for package: /Game/BP_PushingCube
+[2025.07.01-19.03.27:549][248]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_PushingCubeB1F69BDF4BA5105171632FA909C965D4.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_PushingCube.uasset'
+[2025.07.01-19.03.27:568][248]AssetCheck: New page: Asset Save: BP_PushingCube
+[2025.07.01-19.03.27:568][248]LogContentValidation: Display: Validating Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2025.07.01-19.03.29:350][408]LogSavePackage: Moving output files for package: /Game/BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.03.29:352][408]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_LearningKit_PlayerCharacter2CC183D5F48420663616E9393D098D8C3.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_LearningKit_PlayerCharacter2.uasset'
+[2025.07.01-19.03.29:372][408]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.03.29:372][408]LogContentValidation: Display: Validating Blueprint /Game/BP_LearningKit_PlayerCharacter2.BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.03.31:244][568]LogSavePackage: Moving output files for package: /Game/BP_ObstacleAssaultGameMode
+[2025.07.01-19.03.31:247][568]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_ObstacleAssaultGameModeDB2DAC124DFD8C9BA19113BC98907D2C.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_ObstacleAssaultGameMode.uasset'
+[2025.07.01-19.03.31:281][568]AssetCheck: New page: Asset Save: BP_ObstacleAssaultGameMode
+[2025.07.01-19.03.31:281][568]LogContentValidation: Display: Validating Blueprint /Game/BP_ObstacleAssaultGameMode.BP_ObstacleAssaultGameMode
+[2025.07.01-19.03.33:332][707]LogSavePackage: Moving output files for package: /Game/BP_RotatingPlatform
+[2025.07.01-19.03.33:332][707]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_RotatingPlatform77C0B7D54591CA241E1077B13F8F6628.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_RotatingPlatform.uasset'
+[2025.07.01-19.03.33:350][707]AssetCheck: New page: Asset Save: BP_RotatingPlatform
+[2025.07.01-19.03.33:350][707]LogContentValidation: Display: Validating Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform
+[2025.07.01-19.13.38:395][727]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.01-19.13.38:395][727]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3936
+[2025.07.01-19.19.51:716][840]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.01-19.19.51:716][840]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.01-19.19.52:045][840]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=93.26
+[2025.07.01-19.19.52:045][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.01-19.19.52:052][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1

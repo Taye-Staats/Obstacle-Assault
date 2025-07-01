@@ -7301,3 +7301,8 @@ Recommended: 516.25
 [2025.07.01-18.01.25:950][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.07.01-18.01.25:959][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
 [2025.07.01-18.01.26:006][814]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.07.01-18.21.19:182][488]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.01-18.21.37:155][367]LogLiveCoding: Display:    Creating library C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_8.lib and object C:\Users\tayes\OneDrive\Documents\Unreal Projects\Obstacle-Assault\Obstacle_Assault\Binaries\Win64\UnrealEditor-Obstacle_Assault.patch_8.exp
+[2025.07.01-18.21.38:722][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.07.01-18.21.39:170][420]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2025.07.01-18.21.39:170][420]LogLiveCoding: Display: Live coding succeeded

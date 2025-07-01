@@ -7489,3 +7489,53 @@ Recommended: 516.25
 [2025.07.01-19.19.52:045][840]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=93.26
 [2025.07.01-19.19.52:045][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2025.07.01-19.19.52:052][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.01-19.24.30:113][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2025.07.01-19.24.30:248][944]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto9
+[2025.07.01-19.24.30:248][944]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Main_Auto9473B87384DF72BD05A6D6AB423FCBBE7.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Autosaves/Game/Main_Auto9.umap'
+[2025.07.01-19.24.30:256][944]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.256
+[2025.07.01-19.24.30:256][944]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.256
+[2025.07.01-19.24.30:258][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_RotatingPlatform] ([2] browsable assets)...
+[2025.07.01-19.24.30:258][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_RotatingPlatform]
+[2025.07.01-19.24.30:261][944]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_RotatingPlatform_Auto9
+[2025.07.01-19.24.30:261][944]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_RotatingPlatform_Auto903AD13494ADFAA208D3F31BB56037808.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Autosaves/Game/BP_RotatingPlatform_Auto9.uasset'
+[2025.07.01-19.24.30:262][944]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.07.01-19.25.09:406][519]Cmd: EDIT COPY
+[2025.07.01-19.25.11:707][614]Cmd: EDIT PASTE
+[2025.07.01-19.25.18:102][887]Cmd: EDIT PASTE
+[2025.07.01-19.26.13:314][ 70]Cmd: EDIT COPY
+[2025.07.01-19.26.13:767][ 90]Cmd: EDIT PASTE
+[2025.07.01-19.26.55:847][813]Cmd: EDIT COPY
+[2025.07.01-19.26.56:235][828]Cmd: EDIT PASTE
+[2025.07.01-19.27.08:027][308]Cmd: EDIT PASTE
+[2025.07.01-19.34.18:750][984]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.434 and deleted 0 file(s) with total size 0 MiB.
+[2025.07.01-19.34.30:652][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.07.01-19.34.30:794][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto0
+[2025.07.01-19.34.30:794][ 18]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Main_Auto098E3206E4898D65C876A9EA4728052F6.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/Autosaves/Game/Main_Auto0.umap'
+[2025.07.01-19.34.30:799][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.259
+[2025.07.01-19.34.30:799][ 18]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.259
+[2025.07.01-19.37.38:634][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.07.01-19.37.38:768][602]LogSavePackage: Moving output files for package: /Game/Main
+[2025.07.01-19.37.38:770][602]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/MainA1E65FA143FC9DC07EEFC695C913E9B7.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/Main.umap'
+[2025.07.01-19.37.38:815][602]AssetCheck: New page: Asset Save: Main
+[2025.07.01-19.37.38:815][602]LogContentValidation: Display: Validating World /Game/Main.Main
+[2025.07.01-19.37.41:112][727]LogSavePackage: Moving output files for package: /Game/BP_MovingPlatform
+[2025.07.01-19.37.41:114][727]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_MovingPlatformB0ADD1824C11FA04B4F48F8B84F0923D.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_MovingPlatform.uasset'
+[2025.07.01-19.37.41:138][727]AssetCheck: New page: Asset Save: BP_MovingPlatform
+[2025.07.01-19.37.41:138][727]LogContentValidation: Display: Validating Blueprint /Game/BP_MovingPlatform.BP_MovingPlatform
+[2025.07.01-19.37.42:907][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PushingCube" FILE="../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_PushingCube.uasset" SILENT=true
+[2025.07.01-19.37.42:910][876]LogSavePackage: Moving output files for package: /Game/BP_PushingCube
+[2025.07.01-19.37.42:912][876]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_PushingCube385BB6C04DE1BCD09B751CBAA87E9431.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_PushingCube.uasset'
+[2025.07.01-19.37.42:939][876]AssetCheck: New page: Asset Save: BP_PushingCube
+[2025.07.01-19.37.42:939][876]LogContentValidation: Display: Validating Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2025.07.01-19.37.44:500][ 32]LogSavePackage: Moving output files for package: /Game/BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.37.44:501][ 32]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_LearningKit_PlayerCharacter252CE31CC4250625349AD10A5D524B999.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_LearningKit_PlayerCharacter2.uasset'
+[2025.07.01-19.37.44:521][ 32]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.37.44:521][ 32]LogContentValidation: Display: Validating Blueprint /Game/BP_LearningKit_PlayerCharacter2.BP_LearningKit_PlayerCharacter2
+[2025.07.01-19.37.50:759][649]LogSavePackage: Moving output files for package: /Game/BP_ObstacleAssaultGameMode
+[2025.07.01-19.37.50:760][649]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_ObstacleAssaultGameMode1EE2682C4BC401CB5B7C73BA73B166BB.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_ObstacleAssaultGameMode.uasset'
+[2025.07.01-19.37.50:781][649]AssetCheck: New page: Asset Save: BP_ObstacleAssaultGameMode
+[2025.07.01-19.37.50:781][649]LogContentValidation: Display: Validating Blueprint /Game/BP_ObstacleAssaultGameMode.BP_ObstacleAssaultGameMode
+[2025.07.01-19.37.53:207][845]LogSavePackage: Moving output files for package: /Game/BP_RotatingPlatform
+[2025.07.01-19.37.53:209][845]LogSavePackage: Moving '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Saved/BP_RotatingPlatform3C66D8FE4E212193473C909B0E5C6241.tmp' to '../../../../../../Users/tayes/OneDrive/Documents/Unreal Projects/Obstacle-Assault/Obstacle_Assault/Content/BP_RotatingPlatform.uasset'
+[2025.07.01-19.37.53:228][845]AssetCheck: New page: Asset Save: BP_RotatingPlatform
+[2025.07.01-19.37.53:228][845]LogContentValidation: Display: Validating Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform

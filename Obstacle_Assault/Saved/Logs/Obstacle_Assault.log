@@ -5012,3 +5012,150 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.07.02-17.24.03:061][394]LogContentValidation: Display: Validating Blueprint /Game/BP_FastBall.BP_FastBall
 [2025.07.02-17.24.12:028][301]LogSlate: Window 'Message Log' being destroyed
 [2025.07.02-17.24.12:044][301]LogSlate: Window 'Message Log' being destroyed
+[2025.07.02-17.48.35:871][ 21]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.451 and deleted 0 file(s) with total size 0 MiB.
+[2025.07.02-17.54.14:832][ 32]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-17.54.14:833][ 32]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-17.54.21:028][ 50]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-489ms], ThreadID=20296
+[2025.07.02-20.06.39:500][ 50]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.02-20.06.39:516][ 50]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-7938451ms], ThreadID=20296
+[2025.07.02-20.06.39:516][ 50]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.02-20.06.41:445][ 53]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.06.41:774][ 54]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-20.06.42:784][ 57]LogHttp: Warning: 000006E5959E9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.02-20.06.42:784][ 57]LogHttp: Warning: 000006E5959E9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.02-20.06.42:784][ 57]LogHttp: Warning: 000006E5959E9600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6e5100e0a80 [can pipeline])
+[2025.07.02-20.06.42:784][ 57]LogHttp: Warning: 000006E5959E9600: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2025.07.02-20.06.42:784][ 57]LogHttp: Warning: 000006E5959E9600: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.07.02-20.06.42:785][ 57]LogHttp: Warning: 000006E5959E9600: libcurl info message cache 3 (Closing connection 3)
+[2025.07.02-20.06.42:785][ 57]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6e5100e0a80 [can pipeline])
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.20.244.5) port 443 (#2))
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 9 (Closing connection 2)
+[2025.07.02-20.06.45:817][ 66]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.07.02-20.06.45:818][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.07.02-20.06.47:168][ 70]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2025.07.02-20.06.48:523][ 73]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6180.15
+[2025.07.02-20.06.48:523][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-20.06.48:534][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-20.06.48:850][ 75]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-20.06.49:185][ 75]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=47.84
+[2025.07.02-20.06.49:185][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-20.06.49:191][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-20.28.23:444][936]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.28.23:445][936]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-20.37.47:072][619]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.37.47:072][619]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-20.37.47:406][619]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.24
+[2025.07.02-20.37.47:406][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-20.37.47:411][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-20.47.45:225][404]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.47.45:225][404]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-20.47.47:562][411]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.47.47:894][412]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-20.47.48:567][413]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.75
+[2025.07.02-20.47.48:567][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-20.47.48:572][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-20.57.45:743][196]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-20.57.45:743][196]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-21.00.54:400][759]LogDerivedDataCache: C:/Users/tayes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.462 and deleted 0 file(s) with total size 0 MiB.
+[2025.07.02-21.01.10:114][806]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-21.01.10:453][807]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-21.01.11:122][808]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.38
+[2025.07.02-21.01.11:122][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-21.01.11:128][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-21.08.24:096][101]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-21.08.24:096][101]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-22.40.52:500][139]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-523ms], ThreadID=20296
+[2025.07.02-22.40.52:500][139]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-5535899ms], ThreadID=20296
+[2025.07.02-22.40.52:503][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.02-22.40.54:598][142]LogHttp: Warning: 000006E5959EE600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.02-22.40.54:598][142]LogHttp: Warning: 000006E5959EE600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.02-22.40.54:598][142]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.07.02-22.40.54:598][142]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 1 (Closing connection 5)
+[2025.07.02-22.40.54:598][142]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.07.02-22.40.54:930][143]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-22.40.54:930][143]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-22.40.59:996][158]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2025.07.02-22.41.01:336][161]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6279.83
+[2025.07.02-22.41.01:336][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-22.41.01:344][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-22.41.01:675][163]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-22.41.02:006][163]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=61.82
+[2025.07.02-22.41.02:006][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-22.41.02:014][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-23.09.19:482][230]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-23.09.19:482][230]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.02-23.09.26:535][251]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-23.09.26:535][251]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.02-23.09.26:859][251]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=132.44
+[2025.07.02-23.09.26:859][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.02-23.09.26:865][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.02-23.17.05:499][621]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.02-23.17.05:499][621]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.03-06.20.19:357][659]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-532ms], ThreadID=20296
+[2025.07.03-06.20.19:357][659]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.03-06.20.19:357][659]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-25380162ms], ThreadID=20296
+[2025.07.03-06.20.19:357][659]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.03-06.20.20:585][662]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.03-06.20.20:964][663]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6e5100e0120 [can pipeline])
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.212.151.254) port 443 (#6))
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.07.03-06.20.24:355][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.07.03-06.20.24:356][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.07.03-06.20.24:356][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.07.03-06.20.24:356][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 9 (Closing connection 6)
+[2025.07.03-06.20.24:356][673]LogHttp: Warning: 000006E5959EEB00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.07.03-06.20.24:356][673]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.07.03-06.20.26:396][679]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2025.07.03-06.20.27:413][681]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6051.66
+[2025.07.03-06.20.27:413][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.03-06.20.27:421][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.03-06.20.27:747][683]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.03-06.20.28:096][683]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=47.46
+[2025.07.03-06.20.28:096][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.03-06.20.28:106][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.03-06.27.11:625][887]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.03-06.27.11:626][887]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.03-16.13.37:505][901]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-540ms], ThreadID=20296
+[2025.07.03-16.13.37:505][901]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.03-16.13.37:505][901]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-35181444ms], ThreadID=20296
+[2025.07.03-16.13.37:505][901]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.03-16.13.39:628][902]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.07.03-16.13.40:033][904]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VN279 (NVIDIA High Definition Audio), InstanceID=1
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x6e5100e0cf0 [can pipeline])
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.208.92.247) port 443 (#7))
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 9 (Closing connection 7)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: 000006E5959EE600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.07.03-16.13.42:381][911]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B68723-45ED-3181-46E4-85BB511B2A65%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=438d42a341605e211a2cbbb6488ecd7a%7C411171426a5241f68032964d3097cc5c%7Cbdd1c71e-1149-46f9-a816-f45ffe218a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.07.03-16.13.45:214][915]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2025.07.03-16.13.46:547][918]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6296.60
+[2025.07.03-16.13.46:548][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.03-16.13.46:555][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.03-16.13.46:885][920]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20296
+[2025.07.03-16.13.47:550][921]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{20bc7e05-c18a-418e-84a7-f0221698b22e}, Name=VN279 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=409.72
+[2025.07.03-16.13.47:550][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.03-16.13.47:557][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
